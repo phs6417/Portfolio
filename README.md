@@ -1,7 +1,7 @@
 # Portfolio
 ------------------
 1. CoronaMap (2020.02.08 ~ 2020.03.20)
-  개발자 : 이산하 (tksgk77@gmail.com) / 박희상 (show7159@gmail.com) 
+  개발자 : 이산하 (tksgk77@gmail.com) / 박희상 (show7159@gmail.com)
   사용 API : 네이버 클라우드 모바일 앱 / Jsoup / Firesbase / 카카오링크
   기능 
     • 지도에 코로나19 확진자 방문 지역 표시 
