@@ -41,4 +41,6 @@ JAVA
 ---------
 C++
 -----
-1. DataStructure
+1. 자료구조(DataStructure)
+
+2. 테트리스(Tetris)
