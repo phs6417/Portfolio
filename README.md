@@ -23,13 +23,15 @@ JAVA
 
   -SmartGrip
  
+    • 저전력 블루투스 기술 사용 (BLE)
+   
     • 블루투스를 통하여 다양한 진동 부여
  
   -WalkOnChat
  
     • 채팅모듈
     
-    • firebase를 통하여 메시지를 서버에 
+    • firebase를 통하여 메시지를 서버에 저장
   
     • 채팅앱 카카오톡 기능을 참고
     
