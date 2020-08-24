@@ -21,13 +21,13 @@ JAVA
       
 2. Intern (2017.12.18 ~ 2018.02.09 / 2018.06.22 ~ 2018.08.17)
 
-  -SmartGrip
+      -SmartGrip
  
     • 저전력 블루투스 기술 사용 (BLE)
    
     • 블루투스를 통하여 다양한 진동 부여
  
-  -WalkOnChat
+      -WalkOnChat
  
     • 채팅모듈
     
@@ -41,7 +41,7 @@ JAVA
 
 3. Capstone (2017.12 ~ 2018.06)
 
-  - https://github.com/phs6417/2018-cap1-15
+      - https://github.com/phs6417/2018-cap1-15
 
 4. etc
 
